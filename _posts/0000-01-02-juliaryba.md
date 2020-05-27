@@ -1,6 +1,5 @@
 ---
  layout : tytuł slajdu
  : „ Witamy na drugim slajdzie! ”
----
-Twój tekst 
-Użyj strzałki w lewo, aby wrócić!
+ 
+ Co tam u was? U mnie świetnie! 
